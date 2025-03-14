@@ -1,4 +1,6 @@
-# HPKE Demo
+# HPKE Demo🔐
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/sebastian-j-ibanez/go-hpke-demo)
+
 This is a client-server demo of Hybrid-Public Key Encryption in Go.
 
 ## Dependencies
